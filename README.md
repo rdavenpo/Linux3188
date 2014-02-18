@@ -3,6 +3,8 @@ Linux3188
 
 Test kernel 3.0.36+ for RK3188
 
+This kernel should fix RK3188T blinking video problems. 
+
 This is an overclocked (1.7GHz, keep at 1.4GHz for stock)  and undervolted (~10%) kernel for my IPPLI Mars i2 3188T. 
 
 # You need to be root
